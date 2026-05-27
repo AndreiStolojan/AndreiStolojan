@@ -1,6 +1,6 @@
 # Hi, I'm Andrei Stolojan
 
-Software and cybersecurity-focused Computer Engineering student building practical security-oriented systems and scalable backend applications.
+Software and cybersecurity-focused Computer Engineering student building practical security-oriented systems and scalable applications.
 
 ---
 
