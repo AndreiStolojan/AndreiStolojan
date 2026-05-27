@@ -55,15 +55,6 @@ Contributing to MetaDefender Cloud integrations and automation-focused backend t
 
 ---
 
-## Currently Learning
-
-- Advanced backend architecture
-- Detection engineering concepts
-- Scalable API design
-- Secure development workflows
-
----
-
 ## Education
 
 **Politehnica University of Timisoara**  
