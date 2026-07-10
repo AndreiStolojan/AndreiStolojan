@@ -1,64 +1,23 @@
 # Hi, I'm Andrei Stolojan
 
-Software and cybersecurity-focused Computer Engineering student building practical security-oriented systems and scalable applications.
+Software Engineer focused on backend systems, cybersecurity, and practical automation.
 
----
+## Featured work
 
-## Current Focus
+- **[SecureInbox](https://github.com/AndreiStolojan/SecureInbox)** - Explainable Gmail phishing triage built with deterministic scoring, audit-friendly evidence, and optional local AI signals.<br>
+  `Node.js` `Express` `MongoDB` `React` `Gmail API` `Ollama`
 
-- Building an explainable **Phishing Detection System** for my bachelor's thesis
-- Contributing to **MetaDefender Cloud integrations** through OPSWAT AC Labs
-- Learning security engineering and detection workflows
+- **OPSWAT AC Labs** - MetaDefender Cloud integrations and automation-focused backend tooling in an n8n community-node environment.<br>
+  `TypeScript` `REST APIs` `Docker` `n8n`
 
----
+## Background
 
-## Featured Projects
-
-### Phishing Detection System
-Explainable phishing detection platform focused on practical analysis and transparent detection logic.
-
-#### Main Features
-- Gmail OAuth integration
-- Email synchronization and processing
-- Heuristic phishing analysis
-- Explainable detection scoring
-- AI-assisted contextual signals
-- JWT authentication
-- Modular backend architecture
-
-**Tech:** `Node.js` `Express.js` `MongoDB` `JWT` `OAuth2` `Gmail API` `Ollama`
-
----
-
-### OPSWAT AC Labs
-Contributing to MetaDefender Cloud integrations and automation-focused backend tooling in a collaborative engineering environment.
-
-#### Work Completed
-- Built reusable TypeScript HTTP transport helpers
-- Implemented credential injection and MDC-specific error handling
-- Worked on polling systems for asynchronous operations
-- Integrated JSON and binary response handling
-- Developed features inside an n8n community node environment
-- Used Docker and collaborative GitHub PR workflows
-
-**Tech:** `TypeScript` `Docker` `n8n` `REST APIs` `MetaDefender Cloud`
-
----
-
-## Engineering Interests
-
-- Backend architecture
-- Cybersecurity engineering
-- API design and integrations
-- Security tooling
-- Automation workflows
-
----
-
-## Education
-
-**Politehnica University of Timisoara**  
-Computer Engineering
-
+- Computer Engineering graduate, Politehnica University of Timisoara
+- Bachelor thesis: SecureInbox, evaluated **8.9/10**
 - Erasmus studies at THI Ingolstadt, Germany
-- Academic focus on cybersecurity
+
+## Interests
+
+Backend architecture, security engineering, API integrations, and detection workflows.
+
+[LinkedIn](https://www.linkedin.com/in/andrei-stolojan/) · [GitHub](https://github.com/AndreiStolojan)
