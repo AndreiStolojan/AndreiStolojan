@@ -1,6 +1,6 @@
 # Hi, I'm Andrei Stolojan
 
-Software Engineer focused on backend systems, cybersecurity, and practical automation.
+Computer Engineer focused on cybersecurity and practical automation.
 
 ## Featured work
 
