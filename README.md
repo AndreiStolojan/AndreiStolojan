@@ -2,7 +2,7 @@
 
 Computer Engineering graduate. I run Linux at home, host my own services, and build security tools.
 
-I'm looking for entry-level Linux, systems and storage roles in Germany, especially Bavaria, or remote.
+Since November 2026 I'm a Systems Engineer at Atos in Timișoara. I'm open to Linux, backup and security roles in Bavaria or remote.
 
 ## Featured work
 
@@ -30,6 +30,8 @@ Two apps I built for my own Mac and now publish as open source under GPL v3. No 
 
 ## Background
 
+- Systems Engineer, Atos, Timișoara, since November 2026
+- Support Associate, Wolt, remote, August to October 2026
 - Computer Engineering, Politehnica University of Timisoara, 2026. Thesis: SecureInbox, now Barb, evaluated **8.9/10**
 - Erasmus+ semester at THI Ingolstadt, Germany, 2025
 - Backup & Storage, Savnet Academy (Atos-sponsored), 2026, top score on the final exam
